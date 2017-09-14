@@ -1,0 +1,4 @@
+eeg_resp.keys,eeg_resp.rt,key_begin.keys,key_begin.rt,end_key.keys,end_key.rt,date,frameRate,expName,session,participant,
+1,10.3987381257,,,,,2017_Sep_12_1627,60.2853316005,loc_v1,001,t6,
+,,space,8.99727140901,,,2017_Sep_12_1627,60.2853316005,loc_v1,001,t6,
+,,,,space,3012.493534,2017_Sep_12_1627,60.2853316005,loc_v1,001,t6,
